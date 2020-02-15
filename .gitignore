@@ -1,0 +1,9 @@
+**/.vs
+**/.idea
+*.user
+*.suo
+**/bin
+**/obj
+**/packages
+/Release
+**/wwwroot
